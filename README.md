@@ -1,5 +1,6 @@
 # AShapeFormer
-[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Li_AShapeFormer_Semantics-Guided_Object-Level_Active_Shape_Encoding_for_3D_Object_Detection_CVPR_2023_paper.pdf
+By Zechuan Li, Hongshan Yu, Zhengeng Yang, Tongjia Chen, Naveed Akhtar.
+[[Paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Li_AShapeFormer_Semantics-Guided_Object-Level_Active_Shape_Encoding_for_3D_Object_Detection_CVPR_2023_paper.pdf
 )
 # Citation
 If you find our work useful for your research, please consider citing the following paper.
